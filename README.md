@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul Theby
-- 👀 I’m interested in kayaking/camping, hiking, backpackng, exploring, disc golf with friends, technology, learning to code, AI, reading alot, God, science, biology, astronomy, cultures,,,ad infinum
+- 👀 I’m interested in kayaking/camping, hiking, backpackng, exploring, disc golf with friends, technology, learning to code, AI, reading alot, God, science, biology, astronomy, cultures,,,ad infinitum
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on basics of JavaScript
 - 📫 How to reach me ...
