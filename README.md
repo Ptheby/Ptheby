@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paul Theby
 - 👀 
-- 🌱 I’m currently learning Angular while still learning and improving on JavaScript. 
-- 💞️ I’m looking to collaborate on projects in Angular!
+- 🌱 I’m currently learning Angular and working on projects incorporating JavaScript/TypeScript and Angular
+- 💞️ I’m looking to learn more consistently every single day by reading, working on projects, helping others and learning from others,  and meet others looking to do the same. 
 - 📫 How to reach me; paultheby@gmail.com
 
 <!---
