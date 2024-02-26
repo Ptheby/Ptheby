@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul Theby
 - 👀 
-- 🌱 I’m currently learning Angular and working on projects incorporating JavaScript/TypeScript and Angular
+- 🌱I'm currently, as of late Feb '24, working on a full stack project, with mainly Angular and Rails, for insurance agents to share customers that are non-renewing/help them find coverage.
 - 💞️ I learn everyday by reading, working on projects, helping others, learning from others,  and meeting people looking to do the same. 
 - 📫 How to reach me; paultheby@gmail.com
 
