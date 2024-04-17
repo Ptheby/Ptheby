@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paul Theby
 - 👀 
-- 🌱I'm currently, as of late Feb '24, working on a full stack project, with mainly Angular and Rails, for insurance agents to share customers that are non-renewing/help them find coverage.
-- 💞️ I learn everyday by reading, working on projects, helping others, learning from others,  and meeting people looking to do the same. 
+- 🌱I'm currently working on a full stack app using Angular and Rails for insurance agents. 
+- 💞️ I learn everyday by reading, working on projects, helping others, learning from others, and meeting people looking to do the same. 
 - 📫 How to reach me; paultheby@gmail.com
 
 <!---
